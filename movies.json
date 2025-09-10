@@ -4,7 +4,7 @@
     "title": "Inception",
     "poster": "https://example.com/inception.jpg",
     "description": "Фільм про сни та реальність.",
-    "video_src": "https://www.youtube.com/embed/YoHD9XEInc0"
+    "video_src": "img/Dexter"
   },
   {
     "id": "2",
@@ -14,4 +14,5 @@
     "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
   }
 ]
+
 
