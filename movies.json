@@ -2,9 +2,9 @@
   {
     "id": "1",
     "title": "Inception",
-    "poster": "https://example.com/inception.jpg",
+    "poster": "img/Dexter",
     "description": "Фільм про сни та реальність.",
-    "video_src": "img/Dexter"
+    "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
   },
   {
     "id": "2",
@@ -14,5 +14,6 @@
     "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
   }
 ]
+
 
 
