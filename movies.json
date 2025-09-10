@@ -11,7 +11,7 @@
     "title": "Ходячие Мертвецы",
     "poster": "https://raw.githubusercontent.com/Megires0222/Base/refs/heads/main/img/The_Walking_Dead.jpg",
     "description": "Рик Граймс, полицейский, приходит в себя после комы и обнаруживает, что мир захвачен зомби. Он собирает группу выживших, чтобы найти убежище, сражаясь с живыми мертвецами и другими людьми.",
-    "video_src": "https://api.namy.ws/embed/movie/353"
+    "video_src": "https://api.namy.ws/embed/movie/1285"
   },
   {
     "id": "3",
@@ -21,6 +21,7 @@
     "video_src": "https://api.namy.ws/embed/movie/353"
   }
 ]
+
 
 
 
