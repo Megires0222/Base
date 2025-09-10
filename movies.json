@@ -3,17 +3,18 @@
     "id": "1",
     "title": "Декстер",
     "poster": "https://raw.githubusercontent.com/Megires0222/Base/5aaab7127fd1b5373f3d9afdf4b1513f1738add9/img/Dexter.jpg",
-    "description": "safsdf",
-    "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
+    "description": " сериал о талантливом судебном эксперте, который тайно является серийным убийцей. Следуя Кодексу Гарри, он охотится только на других убийц, которые избежали правосудия. Днём он помогает полиции, а ночью совершает собственные кровавые расправы, тщательно скрывая свою двойную жизнь от окружающих.",
+    "video_src": "https://api.atomics.ws/embed/kp/277537"
   },
   {
     "id": "2",
-    "title": "Interstellar12312",
-    "poster": "https://example.com/interstellar.jpg",
-    "description": "Подорож крізь космос і час.",
-    "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
+    "title": "Ходячие",
+    "poster": "https://raw.githubusercontent.com/Megires0222/Base/refs/heads/main/img/The_Walking_Dead.jpg",
+    "description": "Рик Граймс, полицейский, приходит в себя после комы и обнаруживает, что мир захвачен зомби. Он собирает группу выживших, чтобы найти убежище, сражаясь с живыми мертвецами и другими людьми.",
+    "video_src": "https://api.namy.ws/embed/movie/1285"
   }
 ]
+
 
 
 
