@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Inception",
-    "poster": "img/Dexter.jpg",
+    "poster": "https://kinogo.ec/uploads/mini/shortphone/bab/593b16fb2d13c09233c864ad1a56c.jpg",
     "description": "Фільм про сни та реальність.",
     "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
   },
@@ -14,6 +14,7 @@
     "video_src": "https://www.youtube.com/embed/zSWdZVtXT7E"
   }
 ]
+
 
 
 
